@@ -15,7 +15,7 @@ colorDict = {'Total':'Plasma',
             'Solar Thermal and Photovoltaic':'Solar'
             }
 
-st.title('US Energy Geneartion')
+st.title('US Energy Generation')
 totalProduction, sourcePercents, usTrends, dataSource = st.tabs(['Total Generation', 
                                                                 'Source Percentages',
                                                                 'US Trends',
